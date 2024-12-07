@@ -4233,7 +4233,7 @@ EFAS_HISTORICAL:
   sensorType: ATMOSPHERIC
   license: proprietary
   title: River discharge and related historical data from the European Flood Awareness System
-  missionStartDate: "1991-01-01T00:00:00Z"
+  missionStartDate: "1991-01-01T06:00:00Z"
 
 EFAS_REFORECAST:
   abstract: |
